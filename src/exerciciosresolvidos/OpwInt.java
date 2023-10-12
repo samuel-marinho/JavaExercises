@@ -12,5 +12,6 @@ public class OpwInt {
         int resultado = x+y;
 
         System.out.printf("A soma entre %d e %d é %d", x, y, resultado);
+        sc.close();
     }
 }
