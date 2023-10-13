@@ -34,6 +34,6 @@ public class Ex6 {
         System.out.printf("A area doQuadrado é: %.3f%n", areaQuad);
         System.out.printf("A area do Retangulo é: %.3f%n", areaRet);
 
-
+        sc.close();
     }
 }
