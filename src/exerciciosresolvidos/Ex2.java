@@ -8,6 +8,7 @@ public class Ex2 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
+        System.out.println("Digite o raio do círculo: ");
         double pi = 3.14159;
         double raio = sc.nextDouble();
         double area = pi * Math.pow(raio, 2);
