@@ -20,9 +20,6 @@ public class Ex4 {
 
         System.out.println("Número: " + fNum);
         System.out.printf("Seu salário será de U$ %.2f%n", salary);
-
-
-
         sc.close();
     }
 }
