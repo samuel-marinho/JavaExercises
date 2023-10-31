@@ -24,7 +24,7 @@ public class Ex14 {
         }
         else {
             aux = z;
-        };
+        }
         return aux;
     }
     public static void showResult(int value){
