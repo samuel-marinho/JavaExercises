@@ -21,8 +21,6 @@ public class Ex15 {
         y.b = sc.nextDouble();
         y.c = sc.nextDouble();
 
-        x.nExist();
-        y.nExist();
 
         double areaX = x.area();
         double areaY = y.area();
